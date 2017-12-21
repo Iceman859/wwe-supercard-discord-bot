@@ -1,1 +1,3 @@
-# wwe-supercard-discord-bot
+# WWESupercard Discord Bot
+# Work in progress
+#Iceman
